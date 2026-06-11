@@ -132,8 +132,9 @@ The model predicts future sales performance based on historical patterns and tre
 ---
 
 ## 📷 Dashboard Snapshot
+<img width="530" height="295" alt="Screenshot 2026-06-10 115338" src="https://github.com/user-attachments/assets/28f63736-bd3c-41ff-ab3b-bcb974d6ce50" />
 
-*(Insert your Power BI dashboard screenshot here)*
+
 
 ---
 
